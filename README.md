@@ -12,6 +12,7 @@ Open source games that have the source code available.
 - [Browser-Based](#browser-based)
 	- [Boardgame](#boardgame)
 	- [Arcade](#arcade)
+	- [Rhythm](#rhythm)
 	- [FPS](#fps)
 	- [RPG](#rpg)
 	- [MMORPG](#mmorpg)
@@ -25,7 +26,7 @@ Open source games that have the source code available.
 - [Native](#native)
 	- [Action](#action)
 	- [Arcade](#arcade-1)
-	- [Rhythm](#rhythm)
+	- [Rhythm](#rhythm-1)
 	- [FPS](#fps-1)
 	- [MMORPG](#mmorpg-1)
 	- [RPG](#rpg-1)
@@ -139,6 +140,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [WPilot](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
 - [Zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
 - [111 one-button games](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
+
+### Rhythm
+
+- [Bemuse](https://github.com/bemusic/bemuse) - Online rhythm game playing songs in [BMS](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview) format.
 
 ### FPS
 
@@ -274,6 +279,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### Rhythm
 
 - [osu!](https://github.com/ppy/osu) - Rhythm is just a *click* away!
+- [Stepmania](https://github.com/stepmania/stepmania) - Cross-platform dance rhythm game
+- [BMS](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview) players:
+    - lr2oraja - fork of [beatoraja](https://mocha-repository.info/download.php) (popular BMS player) using Lunatic Rave 2 (LR2) gauges and judge. (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version)
+    - lr2oraja ~Endless Dream~ - fork of lr2oraja with additional features. (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version)
 
 ### FPS
 
