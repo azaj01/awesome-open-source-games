@@ -281,8 +281,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [osu!](https://github.com/ppy/osu) - Rhythm is just a *click* away!
 - [Stepmania](https://github.com/stepmania/stepmania) - Cross-platform dance rhythm game
 - [BMS](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview) players:
-    - lr2oraja - fork of [beatoraja](https://mocha-repository.info/download.php) (popular BMS player) using Lunatic Rave 2 (LR2) gauges and judge. (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version)
-    - lr2oraja ~Endless Dream~ - fork of lr2oraja with additional features. (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version)
+    - [lr2oraja](https://github.com/wcko87/lr2oraja) - fork of [beatoraja](https://mocha-repository.info/download.php) (popular BMS player) using Lunatic Rave 2 (LR2) gauges and judge. (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version)
+    - [lr2oraja \~Endless Dream\~](https://github.com/seraxis/lr2oraja-endlessdream) - fork of lr2oraja with additional features. (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version)
 
 ### FPS
 
